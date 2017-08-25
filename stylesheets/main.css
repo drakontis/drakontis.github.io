@@ -18,3 +18,32 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     z-index: -1;
 }
+
+#navigation-bar-container {
+    width: 100%;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+    #navigation-bar-container {
+        width: 50%;
+    }
+}
+
+#navbar ul {
+    margin-right: 0;
+}
+
+#navigation-bar-container a.navbar-brand,
+#navbar ul a {
+    font-weight: 900;
+}
+
+#navigation-bar-container a.navbar-brand {
+    font-size: 3.2rem;
+}
+
+#navbar ul a {
+    font-size: 1.8rem;
+}
