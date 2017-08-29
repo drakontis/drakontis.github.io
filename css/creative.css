@@ -345,4 +345,26 @@ header.masthead {
 
 #personal-image{
   float: left;
+  margin: 0 0.5em 0.5em 0;
+}
+
+.about-me-text {
+  margin-bottom: 0 !important;
+  text-align: justify;
+}
+
+a.link-in-about-me:link {
+  color: deepskyblue;
+}
+
+a.link-in-about-me:visited {
+  color: deepskyblue;
+}
+
+a.link-in-about-me:hover {
+  color: deepskyblue;
+}
+
+a.link-in-about-me:active {
+  color: deepskyblue;
 }
