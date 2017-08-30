@@ -343,6 +343,10 @@ header.masthead {
 .btn-xl {
   padding: 15px 30px; }
 
+.about-me{
+  background-color: #212529;
+}
+
 #personal-image{
   float: left;
   margin: 0 0.5em 0.5em 0;
@@ -368,3 +372,4 @@ a.link-in-about-me:hover {
 a.link-in-about-me:active {
   color: deepskyblue;
 }
+
