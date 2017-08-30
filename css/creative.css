@@ -198,9 +198,9 @@ header.masthead {
   max-width: 400px;
   margin: 50px auto 0; }
   @media (min-width: 992px) {
-    .service-box {
+    .skill-box {
       margin: 20px auto 0; } }
-  .service-box p {
+  .skill-box p {
     margin-bottom: 0; }
 
 .portfolio-box {
@@ -343,6 +343,7 @@ header.masthead {
 .btn-xl {
   padding: 15px 30px; }
 
+/*Custom CSS Rules*/
 .about-me{
   background-color: #212529;
 }
@@ -373,3 +374,7 @@ a.link-in-about-me:active {
   color: deepskyblue;
 }
 
+.skill-icon{
+  height: 4em;
+  /*padding-top: 0.5em;*/
+}
