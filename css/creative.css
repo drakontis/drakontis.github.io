@@ -378,3 +378,7 @@ a.link-in-about-me:active {
   height: 4em;
   /*padding-top: 0.5em;*/
 }
+
+.contact-link{
+  color: #212529 !important;
+}
