@@ -383,29 +383,15 @@ a.link-in-about-me:active {
   color: #212529 !important;
 }
 
+#copyright{
+  padding: 0 0 2em 0;
+}
 
+#contact{
+  padding-bottom: 2em;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*Timeline*/
 #timeline{
   background-color: #212529;
 }
