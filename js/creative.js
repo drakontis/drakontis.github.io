@@ -38,7 +38,7 @@
   // Scroll reveal calls
   window.sr = ScrollReveal();
   sr.reveal('.skill-icon', {
-    duration: 600,
+    duration: 350,
     scale: 0.3,
     distance: '0px'
   }, 200);
